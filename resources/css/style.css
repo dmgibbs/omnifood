@@ -239,6 +239,34 @@ header {
   visibility: hidden;
 }
 
+
+
+/*----------------------------------------------*/
+/* CITIES */
+/*----------------------------------------------*/
+
+/* .section-cities{
+  width: 100%;
+  height: auto;
+} */
+
+.section-cities img{
+
+}
+
+ .box img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+} 
+
+.city-feature {
+  margin-bottom: 5px;
+
+}
+
+
+/*----------------------------------------------*/
 .btn-app img{
   width: auto;
   height: 50px;
